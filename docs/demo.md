@@ -2,11 +2,8 @@
 
 > 使用微信公众号编辑器有一个十分头疼的问题——粘贴出来的代码，格式错乱，而且特别丑。这块编辑器能够解决这个问题。
 
-**在这里粘贴您的Markdown文档，点击“预览”按钮转换为HTML格式。** 
+**在这里粘贴您的Markdown文档，点击“预览”按钮转换为HTML格式。**
 
-## 我的公众号
-
-![微信公众号](http://blog.didispace.com/css/images/weixin.jpg)
 
 ## Markdown基础语法
 
@@ -82,14 +79,14 @@ export PATH;
 
 ```bash
 # 如果没有安装 zsh，可能是 ~/.bash_profile
-source ~/.zshrc 
+source ~/.zshrc
 ```
 
 这个时候就可以在全局打开了：
 
 ```bash
 # -a 的意思是不要新开窗口，在当前已经打开的 vsc 中打开文件
-vsc path/to/file.ext -a 
+vsc path/to/file.ext -a
 ```
 
 有同学提到，VSC 的面板上搜索 `install` 就可以在命令行安装 `code` 这个命令了，不过我更喜欢使用 `vsc` 来打开文件，这也算是折腾吧 ；）
